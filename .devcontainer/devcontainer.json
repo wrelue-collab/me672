@@ -1,0 +1,4 @@
+{
+	"name": "FEniCS devcontainer",
+	"image": "dolfinx/dolfinx:nightly"
+}
